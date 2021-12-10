@@ -3,6 +3,6 @@ test
 
 
 
-> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/CrashArtu/replant-MBC)
+> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Art-Bodz/replant-MBC)
 
 
